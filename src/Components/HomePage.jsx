@@ -1,7 +1,7 @@
 
 function HomePage() {
   return (
-    <div>HomePage</div>
+    <div className="bg-amazonclone-background" >HomePage</div>
   )
 }
 
